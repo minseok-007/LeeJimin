@@ -5,7 +5,6 @@ public class Hello {
         // "Hello World"를 프린트한다.
         System.out.println("Hello World");
         /*
-        ㅁㄴㅇㄹ
          */
     }
 }
